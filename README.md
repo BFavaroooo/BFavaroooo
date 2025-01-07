@@ -14,8 +14,15 @@
    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
    <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white">
+   <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
 </div></br>
 
 Amo tecnologia e a forma como ela transforma ideias em inovação.</br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BFavaroooo/BFavaroooo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BFavaroooo/BFavaroooo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BFavaroooo/BFavaroooo/output/github-contribution-grid-snake.svg">
+</picture></br>
 
 Email para contato: bfavarodev@hmail.com
