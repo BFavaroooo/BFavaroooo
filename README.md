@@ -15,9 +15,8 @@ Amo tecnologia e a forma como ela transforma ideias em inovação.</br>
    alt="HitHub Stats" 
    height="200" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFavaroooo&theme=radical"/>
-</div>
+</div<br/>>
 
-</br>
 
 <div style= "display: inline_block" align="left"><br/>
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
