@@ -5,17 +5,15 @@ Amo tecnologia e a forma como ela transforma ideias em inovação.</br>
 
 <div>
 <img 
-   align="left" 
    alt="HitHub Stats" 
    height="200" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=BFavaroooo&show_icons=true&theme=radical"/>
 <img 
-   align="left" 
    alt="HitHub Stats" 
    height="200" 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFavaroooo&theme=radical"/>
-</div></br>
+</div>
 
 <div style= "display: inline_block" align="left"><br/>
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -27,7 +25,6 @@ Amo tecnologia e a forma como ela transforma ideias em inovação.</br>
    <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white">
    <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
 </div>
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BFavaroooo/BFavaroooo/output/github-contribution-grid-snake-dark.svg">
